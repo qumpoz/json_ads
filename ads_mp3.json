@@ -1,0 +1,18 @@
+{
+  "pc": "com.songs_music.mp3downloader.mp3_tube_free",
+  "client_id_music": "bc930b1d",
+  "interval_inter": 5,
+  "admob": [
+    {
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "inter": "ca-app-pub-3940256099942544/1033173712",
+      "native": "ca-app-pub-3940256099942544/2247696110"
+    }
+  ],
+  "applovin": [
+    {
+      "inter": "",
+      "native": ""
+    }
+  ]
+}
